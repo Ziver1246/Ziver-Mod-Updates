@@ -1,0 +1,10 @@
+{
+  "homepage": "https://modrinth.com/mod/cataclysm-ignis-soulfires",
+  "promos": {
+    "1.21.1-latest": "1.7.2",
+    "1.21.1-recommended": "1.7.2"
+  },
+  "1.21.1": {
+    "1.7.2": "Latest release."
+  }
+}
