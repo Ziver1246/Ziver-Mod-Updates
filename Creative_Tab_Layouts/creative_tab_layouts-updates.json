@@ -1,0 +1,10 @@
+{
+  "homepage": "https://modrinth.com/mod/creative-tab-layouts",
+  "promos": {
+    "1.21.1-latest": "1.1.0",
+    "1.21.1-recommended": "1.1.0"
+  },
+  "1.21.1": {
+    "1.1.0": "Latest release."
+  }
+}
